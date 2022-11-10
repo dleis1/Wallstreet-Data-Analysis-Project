@@ -3,7 +3,7 @@
 ## The Big Idea: 
 ### What is the main idea of your project? What topics will you explore and what will you generate? What is your minimum viable product? What is a stretch goal?
 
-The main idea of our project is to create an app which pulls a wide-net of data for a given public or a soon to IPO company. To do this we will pull financial and text data from various API's (looking at 3-4 API's currently). One key generation for this project will be a sentiment analysis of the user inputted company using Reddit text data. Other generations will include a fractal analysis of the company's share price using the hurst exponent [Hurst exponent code](https://towardsdatascience.com/introduction-to-the-hurst-exponent-with-code-in-python-4da0414ca52e#:~:text=the%20Hurst%20exponent%20is%20a,the%20results%20can%20differ%20significantly.) Our minimum viable product will be a simple webpage where the user inputs a public company and the webpage returns a number of analytics on the company's share prices over a user inputted time period. A stretch goal may be to add more analytics to the webpage or return analytics for an entire industry. 
+The main idea of our project is to create an app which pulls a wide-net of data for a given public or a soon to IPO company. To do this we will pull financial and text data from various API's (looking at 3-4 API's currently). One key generation for this project will be a sentiment analysis of the user inputted company using Reddit text data. Other generations will include a fractal analysis of the company's share price using the hurst exponent ([Article on Hurst Exponent](https://towardsdatascience.com/introduction-to-the-hurst-exponent-with-code-in-python-4da0414ca52e#:~:text=the%20Hurst%20exponent%20is%20a,the%20results%20can%20differ%20significantly.)). Our minimum viable product will be a simple webpage where the user inputs a public company and the webpage returns a number of analytics on the company's share prices over a user inputted time period. A stretch goal may be to add more analytics to the webpage or return analytics for an entire industry. 
  
 ## Learning Goals 
 ### Since this is a team project, you may want to articulate both shared and individual learning goals.
@@ -25,10 +25,15 @@ In the next week we hope to get the API helper functions and inital webpage runn
 ## Collaboration plan
 ### How do you plan to collaborate with your teammates on this project? Will you split tasks up, complete them independently, and then integrate? Will you pair program the entire thing? Make sure to articulate your plan for successfully working together as a team. This might also include information about any software development methodologies you plan to use (e.g. agile development). Make sure to make clear why you are choosing this particular organizational structure.
 
+We plan to use some agile development principles and do a decent amount of independent programming but will plan to start and finish our deliverables together as to make sure we have full integration. We will split up tasks based upon the deliverable that we are working towards that week. We are choosing this org structure because we have team members who live off campus so meeting in-person to pair program will not always be possible. However, we still think that pair programming is necessary for proper integration. 
 
 ## Risks
 ### What do you view as the biggest risks to the success of this project?
 
+The biggest risk to the success of our project is likely our lack of html and overall web development knowledge. We are hoping that we can self-learn as well as leverage the professor's html templates to mitigate this risk. 
+
 
 ## Additional Course Content
 ### What are some topics that we might cover in class that you think would be especially helpful for your project?
+
+As previously mentioned, our group is lacking in web development knowledge, so having a more in-depth lecture on html could be very helpful. As well having some coverage of data visualization in python would be advantageous, especially how to integrate visuals onto a webpage. 
