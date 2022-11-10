@@ -10,18 +10,18 @@ The main idea of our project is to create an app which pulls a wide-net of data 
 ## Learning Goals 
 ### Since this is a team project, you may want to articulate both shared and individual learning goals.
 
-We want to learn more about web development in this project. As well, we want to learn more about data science libraries in python as they apply to both numeric and text data. 
+Our team wants to learn more about how we can leverage python for financial research. As well, we want to learn more about data science libraries in python as they apply to both numeric and text data. Lastly, as a side effect we will have to learn more about web development when creating this website. 
 
 
 ## Implementation Plan
 ### This will probably be pretty vague initially. Perhaps at this early juncture you will have identified a library or a framework that you think will be useful for your project. If you don't have any idea how you will implement your project, provide a rough plan for how you will determine this information.
 
-We have identify a couple of libraries that will aid us in our project. First we will use the Natural Language Toolkit for our Reddit text processing and polarity output. Then we plan to use a number of other libraries such as pandas, seaborn, and numpy for data manipulation and visualization.   
+We have identified a couple of libraries that will aid us in our project. First we will use the Natural Language Toolkit for our Reddit text processing and polarity output. Then we plan to use a number of other libraries such as pandas, seaborn, and numpy for data manipulation and visualization.   
 
 ## Project schedule
 ### You have 8 weeks (roughly) to finish the project. Sketch out a rough schedule for completing the project. Depending on your project, you may be able to do this in great specificity or you may only be able to give a broad outline. Additionally, longer projects come with increased uncertainty, and this schedule will likely need to be refined along the way.
 
-In the next week we hope to get the API helper functions and inital webpage running. The webpage will initally return very basic information such as the share price and the head of the Reddit text data. Before Thanksgiving we hope to have the sentiment analysis module implimented into the webpage as well as one analysis of time series or numeric data. From here we hope to add an analysis per week over the next two weeks as well as functionality such as changing the local url. This should set us up to finish 
+In the next week we hope to get the API helper functions and inital webpage running. The webpage will initally return very basic information such as the share price of the user inputted company and the head of the Reddit text data for the company. Before Thanksgiving we hope to have the sentiment analysis module implimented into the webpage as well as one analysis of time series or numeric data. From here we hope to add an analysis per week over the next two weeks as well as functionality such as changing the local url. This should set us up to finish our project on time and still have time to document and prepapre our results. 
 
 
 ## Collaboration plan
